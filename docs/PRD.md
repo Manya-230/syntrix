@@ -123,4 +123,4 @@ The first version of Syntrix will include:
 - Connection requests
 - Messages sent
 - Gigs posted
-- Event participation
+- Event participation 
